@@ -6,9 +6,10 @@
 ## Ros Setup
 1. Install Docker ([installation instructions here](https://docs.docker.com/desktop/))
 2. Clone this repository
-3. Open `ros.env` 
-4. Change `ROS_MASTER_URI=[YOUR ROS MASTER]` to have the url of your ROS master (the format is `ROS_MASTER_URI=http://[IP or HOSTNAME]:11311`)
-5. Run `docker-compose up --build`
+5. Open `ros.env` 
+6. Change `ROS_MASTER_URI=[YOUR ROS MASTER]` to have the url of your ROS master (the format is `ROS_MASTER_URI=http://[IP or HOSTNAME]:11311`)
+7. Open Terminal on docker desktop 
+8. Navigate to the folder where you cloned this repo and Run `docker-compose up --build`
 
 ## Running GUI Appilication
 Open your browser to `localhost:8080/vnc.html` and click connect.
