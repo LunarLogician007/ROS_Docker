@@ -1,4 +1,4 @@
-## Initail Installations (For MAC People)
+## Initial Installations (For MAC People)
 1. Xqurtz
 2. Visual Studio Code ( for making life easier)
 3. iterm terminal ( becuase the native terminal in macos sucks )
