@@ -15,7 +15,7 @@
 ## Visual Studio Code Setup 
 1. Install Remote containers extentions on your VS Code
 2. After you run `docker-compose up --build` on Docker Desktop ( or in your favoraite terminal emulator ) , go to the command pannel and search for attach running containers
-3. select ros-mac-os container
+3. select ros-docker-os container
 4. Finally Open terminal in vs code , and voila you have your container running
 
 ## Running GUI Appilication
